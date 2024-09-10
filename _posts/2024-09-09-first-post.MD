@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+description: This description will show up in the meta tag, for SEO. You can also put a description in each post as well.
 author: "Author Name"
 categories: [ "Category 1", "Category 2" ]
 tags: [ "Tag 1", "Tag 2" ]
