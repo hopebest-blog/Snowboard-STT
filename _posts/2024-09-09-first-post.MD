@@ -1,11 +1,13 @@
 ---
 title: "First Post"
-description: This description will show up in the meta tag, for SEO. You can also put a description in each post as well.
+description: This description will show up in the meta tag, for SEO.
 author: "Author Name"
-categories: [ "Category 1", "Category 2" ]
-tags: [ "Tag 1", "Tag 2" ]
+categories: []
+tags: []
 banner:
     image: "/assets/img/sky.jpg"
+hidden:
+    - related_posts
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
