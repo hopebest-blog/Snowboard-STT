@@ -11,7 +11,7 @@ hidden:
 ---
 
 
-![Image here](/assets/img/snowboard-snow4.png)
+![Image here](/assets/img/snowboard-background2.png)
 
 ## section 1
 
