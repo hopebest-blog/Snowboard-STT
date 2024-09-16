@@ -5,7 +5,7 @@ author: "Author Name"
 categories: []
 tags: []
 banner:
-    image: "/assets/img/sky.jpg"
+    image: "/assets/img/snowboard-background3.png"
 hidden:
     - related_posts
 ---
