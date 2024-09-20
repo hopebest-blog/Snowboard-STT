@@ -31,11 +31,12 @@ Riding in powder is a unique and exhilarating experience, but it requires differ
 
 1.	Adjust Your Stance: Set your bindings back slightly to keep the nose of the board up and prevent it from sinking into the snow. This helps you float on top of the powder.
 
-2.	Stay Centered: Keep your weight centered over the board, with a slight lean back to maintain balance. Avoid leaning too far back, as this can cause you to lose control.
+2.	Stay Centered: Keep your weight centered over the board, with a slight lean back to maintain balance. Avoid leaning too far back, as this can cause you to lose control. When you lean back, you do so by shifting your hips backward.
+Your hips should still be parallel to the snow.
 
 3.	Use Your Legs: Let your legs absorb the bumps and changes in terrain. Keep your knees bent and flexible to maintain stability.
 
-4.	Maintain Speed: Riding in powder requires more speed to stay afloat. Keep a steady pace and avoid stopping abruptly, as it can be difficult to start moving again.
+4.	Maintain Speed: Riding in powder requires more speed to stay afloat. Keep a steady pace and avoid stopping abruptly, as it can be difficult to start moving again. This is especially true if you stop in a flat area.
 
 5.	Turn Smoothly: Use gentle, flowing turns to navigate through the powder. Avoid sharp, aggressive turns, as they can cause you to sink or lose balance.
 
