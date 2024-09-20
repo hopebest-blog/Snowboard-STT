@@ -5,7 +5,7 @@ author: "Snowboard Team"
 categories: []
 tags: []
 banner:
-    image: "/assets/img/sky.jpg"
+    image: "/assets/img/snowboard-snow4.png"
 hidden:
     - related_posts
 ---
