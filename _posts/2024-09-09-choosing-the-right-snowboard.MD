@@ -42,7 +42,6 @@ Camber profiles vary from traditional camber, which offers stability and pop, to
 By considering these factors, you can choose a snowboard that matches your style and skill level, ensuring a great time on the slopes.
 
 
-## section 2
 
 
 ```
