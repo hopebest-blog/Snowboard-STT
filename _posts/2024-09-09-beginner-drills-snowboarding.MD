@@ -1,6 +1,6 @@
 ---
 title: "Beginner Drills for Snowboarding"
-description: "Beginner Drills for Snowboarding.
+description: "Beginner Drills for Snowboarding."
 author: "Snowboarding Team"
 categories: []
 tags: []
