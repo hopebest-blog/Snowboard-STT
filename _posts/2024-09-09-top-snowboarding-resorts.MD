@@ -21,6 +21,8 @@ hidden:
 < script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
+Share this page with your friends!
+
 ## Top 10 Resorts to Visit
 
 Snowboarding enthusiasts are always on the lookout for the best resorts to experience thrilling runs, breathtaking views, and top-notch facilities. Here are ten of the best snowboarding resorts around the world that cater to all levels of riders:
