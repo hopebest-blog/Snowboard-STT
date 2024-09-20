@@ -1,6 +1,6 @@
 ---
 title: "How to Snowboard: Tips for Riding in Powder"
-description: How to Snowboard: Tips for Riding in Powder.
+description: How to Snowboard in Powder.
 author: "Snowboard Team"
 categories: []
 tags: []
