@@ -10,6 +10,8 @@ hidden:
     - related_posts
 ---
 
+![Image here](/assets/img/snowboard-snow4.png)
+
 ## section 1
 
 Snowboarding enthusiasts are always on the lookout for the best resorts to experience thrilling runs, breathtaking views, and top-notch facilities. Here are ten of the best snowboarding resorts around the world that cater to all levels of riders:
