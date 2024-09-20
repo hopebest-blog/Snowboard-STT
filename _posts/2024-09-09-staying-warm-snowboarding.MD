@@ -1,22 +1,29 @@
 ---
 title: "How to Snowboard: Tips for Staying Warm on the Slopes"
-description: This description will show up in the meta tag, for SEO.
+description: Stay warm while you snowboard
 author: "Author Name"
 categories: []
 tags: []
 banner:
-    image: "/assets/img/sky.jpg"
+    image: "/assets/img/snowboard-snow4.png"
 hidden:
     - related_posts
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
-
 ![Image here](/assets/img/snowboard-snow4.png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_email"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
 
-## section 1
+Share this page with your friends!
+
+## Stay Warm while you snowboard
 
 Staying warm on the slopes is crucial for an enjoyable snowboarding experience. Here are some tips to help you stay comfortable in cold weather:
 
@@ -41,8 +48,6 @@ Staying warm on the slopes is crucial for an enjoyable snowboarding experience. 
 By following these tips, you can stay warm and comfortable while enjoying your time on the slopes.
 
 
-
-## section 2
 
 
 ```
