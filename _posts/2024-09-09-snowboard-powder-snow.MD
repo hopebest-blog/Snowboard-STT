@@ -25,7 +25,7 @@ hidden:
 Share this page with your friends!
 
 
-## section 1
+## How to snowboard on Powder Snow
 
 Riding in powder is a unique and exhilarating experience, but it requires different techniques compared to groomed runs. Here are some tips to help you master powder riding:
 
