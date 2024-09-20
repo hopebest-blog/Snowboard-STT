@@ -1,7 +1,7 @@
 ---
 title: "How to Snowboard: Tips for Staying Warm on the Slopes"
 description: Stay warm while you snowboard
-author: "Author Name"
+author: "Snowboard Team"
 categories: []
 tags: []
 banner:
