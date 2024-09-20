@@ -47,7 +47,5 @@ Your hips should still be parallel to the snow.
 By following these tips, you’ll be able to enjoy the thrill of riding in powder and make the most of your snowboarding experience.
 
 
-## section 2
-
 
 ```
