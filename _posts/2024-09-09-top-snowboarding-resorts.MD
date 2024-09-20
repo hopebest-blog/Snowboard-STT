@@ -18,7 +18,7 @@ hidden:
 <a class="a2a_button_facebook"></a>
 <a class="a2a_button_email"></a>
 </div>
-< script async src="https://static.addtoany.com/menu/page.js"></script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
 Share this page with your friends!
