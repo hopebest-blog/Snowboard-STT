@@ -1,8 +1,8 @@
 ---
-title: "Blog Title"
-banner: "/assets/img/home.jpg"
-heading: "Blog Heading"
-subheading: "Blog Subheading"
+title: "Snowboarding"
+banner: "/assets/img/snowboard-snow4.png"
+heading: "Snowboarding"
+subheading: "Learn & Improve your Snowboarding today"
 ---
 
-This is the blog homepage content!
+While we wait for winter, see how you can get better in the off season
